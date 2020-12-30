@@ -43,3 +43,5 @@ Assignment 4 Reference repository: https://github.com/rathneesh/uvce-assignment 
 
 2. The port to be used is ```32000``` which is the port on which app is running on localhost. Don't use ```3306``` as port to connect from the client as it's the port where container is running.
 
+3. Since these files were commited from a Windows machine, take care to change the line endings of ```docker-entrypoint.sh``` from ```CR LF``` to ```LF```
+   
