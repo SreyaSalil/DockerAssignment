@@ -30,7 +30,7 @@ Assignment 4 Reference repository: https://github.com/rathneesh/uvce-assignment 
 
 - <b>Step 5:</b> Verify DB is up and running and tables are created
 
-  Use any of the database clients like MySQL workbench or SQLDeveloper. In my case, I am using the Pycharm DB plugin. Make sure you have the driver installed for the MySQL db     running on the client you are using.
+  Use any of the database clients like MySQL workbench or SQLDeveloper. Make sure you have the driver installed for the MySQL db     running on the client you are using.
 
   Connect to MySQL database using the properties specified in ```docker-compose.yml``` file with host as ```localhost```.
   
