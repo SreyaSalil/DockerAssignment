@@ -36,7 +36,7 @@ Assignment 4 Reference repository: https://github.com/rathneesh/uvce-assignment 
   
 - <b>Step 6: </b> Run simple commands like ```show tables``` or ```desc <<tablename>>``` to make sure table is created with exact fields specified in the Flask models. 
 
-- <b>Step 7: </b> Run ```docker-compose down``` to stop containers and removes containers, networks, volumes, and images created
+- <b>Step 7: </b> Run ```docker-compose down``` to stop containers and remove containers, networks, volumes, and images created
 ## Note:
 
 1. Don't use the ```MYSQL_ROOT_PASSWORD``` but the password for the db you created, i.e ```MYSQL_PASSWORD```
