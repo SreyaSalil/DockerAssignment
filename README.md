@@ -5,7 +5,7 @@ Questions repository: https://github.com/rathneesh/uvce-assignment/blob/master/a
 Assignment 4 Reference repository: https://github.com/rathneesh/uvce-assignment <br>
 
 ## Team members
-- Sreya Salil (1MS18CS124)
+- [Sreya Salil](https://github.com/SreyaSalil) (1MS18CS124)
 - Priyanka S (1MS18CS098)
 
 ## How to run this project
